@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.875449501274-un0o0idup2tls4671gg6uhd66hs53sl8</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb400329498898769</string>
+			</array>
+		</dict>
+	</array>
+    <key>FacebookClientToken</key>
+    <string>6debc03b7fae8745189975a91bdd8ee7</string>
+    <key>FacebookAppID</key>
+    <string>400329498898769</string>
+    <key>FacebookDisplayName</key>
+    <string>LogInWithSocialAccount</string>
+</dict>
+</plist>
